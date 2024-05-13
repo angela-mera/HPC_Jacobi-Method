@@ -1,4 +1,4 @@
-# HPC_Jacobi-Methodd
+# HPC_Jacobi-Method
 This repository contains the implementation of the **Jacobi Method for the iterative solution of Poisson's Equation in one dimension (1D)**. It utilizes High-Performance Computing (HPC) techniques to efficiently solve this equation, providing a numerical solution for problems in fields such as physics, engineering, and applied sciences. It provides three distinct implementations: **sequential, threaded (using pthreads), and process-based (using fork)**, each with its specific characteristics and optimizations.
 
 # Prerequisites
